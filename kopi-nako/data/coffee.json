@@ -1,0 +1,58 @@
+{
+    "menu": [
+        {
+            "kategori": "minuman",
+            "nama": "Es Kopi Nako",
+            "harga": 27500,
+            "gambar": "es kopi nako.webp"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Es Kopi Nako Jelly",
+            "harga": 31900,
+            "gambar": "es kopi nako jelly.webp"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Es Kopi Nako Strong",
+            "harga": 34100,
+            "gambar": "es kopi nako strong.webp"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "Nasi Mangkok Lada Hitam",
+            "harga": 34100,
+            "gambar": "nasi mangkok lada hitam.webp"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "Bakso Urat Cuanki",
+            "harga": 40700,
+            "gambar": "bakso urat cuanki.webp"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "Kwetiaw Goreng",
+            "harga": 42900,
+            "gambar": "kwetiaw goreng.webp"
+        },
+        {
+            "kategori": "camilan",
+            "nama": "Platter Nako",
+            "harga": 49500,
+            "gambar": "platter nako.webp"
+        },
+        {
+            "kategori": "camilan",
+            "nama": "Pempek",
+            "harga": 44000,
+            "gambar": "pempek.webp"
+        },
+        {
+            "kategori": "camilan",
+            "nama": "Kentang Keju",
+            "harga": 33000,
+            "gambar": "kentang keju.webp"
+        }
+    ]
+}

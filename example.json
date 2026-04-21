@@ -1,0 +1,20 @@
+[
+    {
+        "nama": "A. Shintya Lestari",
+        "umur": 25,
+        "pekerjaan": "Programmer Freelance",
+        "hobi": [
+            "coding",
+            "hiking"
+        ]
+    },
+    {
+        "nama": "Bobby",
+        "umur": 23,
+        "pekerjaan": "Frontend Developer",
+        "hobi": [
+            "design",
+            "travelling"
+        ]
+    }
+]
